@@ -17,6 +17,10 @@ int main() {
   scanf("%28s[^/n]", email );
    printf("mon age est : ");
   scanf("%d\n", &age );
+
+  int fonction(){
+    aaajalj
+  }
   
   
   
